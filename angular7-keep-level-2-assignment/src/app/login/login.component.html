@@ -1,0 +1,17 @@
+<div class="login-container">
+    <div class="login-form">
+      <strong *ngIf="submitMessage" class="error-message">{{submitMessage}}</strong>
+        <form class="example-form" [formGroup]="loginForm" (ngSubmit)="loginSubmit()">
+            <mat-form-field class="example-full-width">
+              <input matInput type="text" placeholder="Enter username" formControlName="username" name="username">
+              
+            </mat-form-field>
+            
+            <mat-form-field class="example-full-width">
+              <input type="password" matInput placeholder="Enter userpassword" formControlName="password" name="password"/>
+            </mat-form-field>
+            <button class="btn btn-primary">Login</button>
+          </form>
+    </div>
+
+</div>

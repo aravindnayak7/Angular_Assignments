@@ -1,0 +1,54 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "Read Angular5 blog",
+      "text": "Shall do at 6 pm"
+    },
+    {
+      "id": 2,
+      "title": "Call Ravi",
+      "text": "Track the new submissions"
+    },
+    {
+      "title": "Capitalism",
+      "text": "Mark Twain",
+      "id": 3
+    },
+    {
+      "title": "aravind",
+      "text": "nayaksddsdsd",
+      "id": 4
+    },
+    {
+      "title": "myFav game ",
+      "text": "chess is my fav game",
+      "id": 5
+    },
+    {
+      "title": "aravind",
+      "text": "Task completed",
+      "id": 6
+    },
+    {
+      "title": "aravindnayak",
+      "text": "lkdlksds;d;ldsd",
+      "id": 7
+    },
+    {
+      "title": "assignment2",
+      "text": "Completed",
+      "id": 8
+    },
+    {
+      "title": "assignment2",
+      "text": "Completed",
+      "id": 9
+    },
+    {
+      "title": "assignment2",
+      "text": "Completed",
+      "id": 10
+    }
+  ]
+}
